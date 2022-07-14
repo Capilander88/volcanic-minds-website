@@ -1,3 +1,4 @@
 <template>
-  <NuxtWelcome />
+  <Header />
+  <div class="container">Hello world</div>
 </template>
