@@ -1,15 +1,16 @@
-# Volcanic minds website (Nuxt.js)
+# Volcanic Minds website (Nuxt.js)
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
 ## Setup
 
-Make sure to use LTS version of Node (e.g. 14.18) and install Volar Extension for VSCode. Then, enable Take Over Mode by doing this:
+Make sure to use LTS version of Node (e.g. 14.18) and install Volar Extension for VSCode; disable Vetur extension in this workspace only, if you use it in other projects.
+Then, enable Take Over Mode by doing this:
 
 ```bash
 Run Extensions: "Show Built-in Extensions" command via CMD+SHIFT+P
 
-Find TypeScript and JavaScript Language Features, right click and select Disable (Workspace)
+Find "TypeScript and JavaScript Language Features", right click and select "Disable (Workspace)"
 
 Reload VSCode
 ```
