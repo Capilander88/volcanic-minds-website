@@ -15,3 +15,8 @@ useHead({
   ],
 })
 </script>
+
+<style lang="stylus" scoped>
+.container
+  color red
+</style>
